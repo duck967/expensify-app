@@ -1,0 +1,2 @@
+deploy to s3:  https://andela.com/insights/how-to-deploy-your-react-app-to-aws-s3/
+https setup: https://channaly.medium.com/how-to-host-static-website-with-https-using-amazon-s3-251434490c59
